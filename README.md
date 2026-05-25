@@ -1,4 +1,4 @@
-# Roadmap Backend Developer Júnior (2026)
+# Roadmap Backend Developer Junior (2026)
 
 Um plano estruturado e atualizado focado nas demandas reais do mercado para vagas de **Backend Júnior**, com ênfase em stacks modernas, boas práticas, cloud, APIs e observabilidade.
 
